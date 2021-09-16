@@ -1,0 +1,21 @@
+{
+    "name": "react-contact-form",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html --open"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@parcel/transformer-sass": "2.0.0-rc.0",
+        "parcel": "2.0.0-rc.0"
+    },
+    "dependencies": {
+        "emailjs-com": "3.2.0",
+        "react": "17.0.2",
+        "react-dom": "17.0.2"
+    }
+}
